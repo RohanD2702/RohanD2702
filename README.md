@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @RohanD2702
-- 👀 I’m interested in Running, AI
+- 👋 Hi, I’m @ROHAN
+- 👀 I’m interested in AI, Cloud, Infrastructure
 - 🌱 I’m currently learning GitHub
-- 💞️ I’m looking to collaborate on how to best use this platform
+- 💞️ I’m looking to collaborate on how to use this platform best
 - 📫 Find me if you can
 - 😄 Pronouns: RD
 - ⚡ Fun fact: 5 time Marathon Runner
